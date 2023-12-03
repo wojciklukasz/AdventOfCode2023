@@ -1,4 +1,4 @@
-with open('input.txt', 'r') as f:
+with open('day2/input.txt', 'r') as f:
     games = f.readlines()
 
 red_limit = 12

@@ -13,7 +13,7 @@ spelled_letters = {
     'nine': '9'
 }
 
-with open('input.txt') as f:
+with open('day1/input.txt') as f:
     lines = f.readlines()
 
 total = 0
